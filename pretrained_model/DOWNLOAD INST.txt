@@ -1,0 +1,12 @@
+from https://pan.baidu.com/s/1XJYWN87DbMmECGvIP85sWg?pwd=1cqw download RoBERTa_zh_Large_Pytorch here. The file structure should be:
+
+!ls ./pretrained_model/RoBERTa_zh_Large_PyTorch
+
+config.json  pytorch_model.bin	vocab.txt
+
+
+
+from https://huggingface.co/albert/albert-xxlarge-v1 download albert/albert-xxlarge-v1. The file structure should be:
+
+./pretrained_model/albert-xxlarge-v1:
+config.json  eval.log  pytorch_model.bin  spiece.model	tokenizer.json

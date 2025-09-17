@@ -1,0 +1,15 @@
+DOWNLOAD dataset from https://github.com/luanyi/DyGIE/tree/master/preprocessing/ace2005
+
+and run https://github.com/luanyi/DyGIE/blob/master/preprocessing/ace2005/ace2json.py to have 
+
+
+./ACE05-DyGIE/json:
+dev.json  test.json  train.json
+
+
+
+run preprocess_data.py to have :
+
+ ./ACE05-DyGIE/processed_data
+
+65_schemas.json  dev.json  test.json  train.json

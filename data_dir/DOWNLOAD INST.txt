@@ -1,0 +1,7 @@
+download tianchi.aliyun.com/dataset/95414/submission CMeIE-V2 and put them here. it should look likes
+
+!ls ./data_dir
+
+CMeIE-V2_dev.jsonl  
+CMeIE-V2_test.jsonl 
+* and other generated data
