@@ -135,5 +135,3 @@ ${py_exec} run_gpner41-CMeIE.py
 - If encountering CUDA out-of-memory errors, reduce batch size or use gradient accumulation
 - For dataset processing issues, verify the original data formats match expected structures
 - Ensure all dependencies are compatible with the specified Python and CUDA versions
-
-This guide provides the complete workflow for setting up and running the SAC project. Follow each step carefully and verify successful completion before proceeding to subsequent stages.
